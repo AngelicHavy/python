@@ -1,0 +1,1 @@
+3.	Write a def(task4) that reads a text file and replaces all occurrences of a specified word with a different word and returns a string of completed text

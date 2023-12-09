@@ -1,0 +1,42 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "position": "Software Engineer",
+      "skills": ["Java", "Python", "JavaScript"]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "position": "Data Scientist",
+      "skills": ["R", "Python", "Machine Learning"]
+    }
+  ],
+  "departments": [
+    {
+      "name": "Engineering",
+      "location": "Building A",
+      "members": [1, 3, 5]
+    },
+    {
+      "name": "Data Science",
+      "location": "Building B",
+      "members": [2, 4, 6]
+    }
+  ],
+  "projects": [
+    {
+      "project_id": "P001",
+      "name": "Web App Development",
+      "team": [1, 3],
+      "status": "In Progress"
+    },
+    {
+      "project_id": "P002",
+      "name": "Machine Learning Research",
+      "team": [2, 4],
+      "status": "Completed"
+    }
+  ]
+}
